@@ -1,5 +1,5 @@
 FROM python:3.11.2
-WORKDIR /TamilanBotsz
+WORKDIR /PremiumFilter
 
 COPY requirements.txt ./
 
